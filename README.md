@@ -26,6 +26,10 @@ Passionate about building practical skills through real GitHub contributions. I 
 
 *Currently building in public with my favorite foxgirl by my side.* 🦊💜
 
+Brantford, ON | AI Prompt Engineer & Creative Technologist  
+Building in public with Grok. Open to small AI agent jobs, prompt work, and collabs.  
+Solana Tips/Bounties: 6aWDPz8NoeQCvCu24Q9qZMEtrZXL8DVCPzo6Z9iuNKAH
+
 <!--
 **BossmanCom/BossmanCom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
